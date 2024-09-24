@@ -7,7 +7,7 @@
             {
                 "id": "1",
                 "name": "1",
-                "topics": "Derivator av trigonometriska funktioner",
+                "topics": "derivator av trigonometriska funktioner",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "derivator_av_trigonometriska_funktioner": 0.85
@@ -16,7 +16,7 @@
             {
                 "id": "2",
                 "name": "2",
-                "topics": "Deriveringsregler",
+                "topics": "deriveringsregler",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "deriveringsregler": 0.85
@@ -25,7 +25,7 @@
             {
                 "id": "3",
                 "name": "3",
-                "topics": "Kedjeregeln",
+                "topics": "kedjeregeln",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "kedjeregeln": 0.85
@@ -34,25 +34,61 @@
             {
                 "id": "4",
                 "name": "4",
-                "topics": "Areor",
+                "topics": "derivatan som en funktion",
                 "allowRecycle": true,
                 "learningObjectives": {
-                    "Areor": 0.85
+                    "derivatan_som_en_funktion": 0.85
                 }
             },
             {
                 "id": "5",
                 "name": "5",
-                "topics": "Area av ett område mellan två kurvor",
+                "topics": "definiera derivatan",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "definiera_derivatan": 0.85
+                }
+            },
+            {
+                "id": "6",
+                "name": "6",
+                "topics": "avsnitt 2.1 övningar",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "avsnitt_2.1_övningar": 0.85
+                }
+            },
+            {
+                "id": "7",
+                "name": "7",
+                "topics": "avsnitt 5.2 övningar",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "avsnitt_5.2_övningar": 0.85
+                }
+            },
+            {
+                "id": "8",
+                "name": "8",
+                "topics": "area och determinant integral",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "area_och_determinant_integral": 0.85
+                }
+            },
+            {
+                "id": "9",
+                "name": "9",
+                "topics": "area av ett område mellan två kurvor",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "area_av_ett_område_mellan_två_kurvor": 0.85
                 }
             },
             {
-                "id": "6",
-                "name": "6",
-                "topics": "Områden av sammansatta regioner",
+                "id": "10",
+                "name": "10",
+                "topics": "områden av sammansatta regioner",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "områden_av_sammansatta_regioner": 0.85

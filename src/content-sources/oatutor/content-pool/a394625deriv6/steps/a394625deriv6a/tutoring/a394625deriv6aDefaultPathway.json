@@ -4,7 +4,7 @@
         "type": "hint",
         "dependencies": [],
         "title": "Bryta ner frågan",
-        "text": "Vi kan separera funktionerna i sin(x) och tan(x)",
+        "text": "Vi kan separera funktionerna i \\(\\sin\\{paren1\\}\\) och \\(\\tan\\{paren1\\}\\)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": ""
@@ -21,7 +21,7 @@
             "a394625deriv6a-h1"
         ],
         "title": "Deluppgift",
-        "text": "Vad är derivatan av sin(x)",
+        "text": "Vad är derivatan av \\(\\sin\\{paren1\\}\\)",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "",

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-Sweden/static/css/main.fa1f72c8.css",
-    "main.js": "/OATutor-Sweden/static/js/main.081eb99b.js",
+    "main.js": "/OATutor-Sweden/static/js/main.db2afbd4.js",
     "static/media/Symbola.svg": "/OATutor-Sweden/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/OATutor-Sweden/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/OATutor-Sweden/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/OATutor-Sweden/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-Sweden/index.html",
     "main.fa1f72c8.css.map": "/OATutor-Sweden/static/css/main.fa1f72c8.css.map",
-    "main.081eb99b.js.map": "/OATutor-Sweden/static/js/main.081eb99b.js.map"
+    "main.db2afbd4.js.map": "/OATutor-Sweden/static/js/main.db2afbd4.js.map"
   },
   "entrypoints": [
     "static/css/main.fa1f72c8.css",
-    "static/js/main.081eb99b.js"
+    "static/js/main.db2afbd4.js"
   ]
 }
